@@ -392,21 +392,15 @@ a{
   margin-bottom: 0;
 }
 
-#callbtn {
-  margin: 16px auto 0 auto;
-  display: flex;
-  justify-content: center;
-  color: #fff;
-  background-color: rgba(249, 9, 9, 0.8);
-  padding: 12px 24px;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background-color 0.3s, color 0.3s;
+#callbtn:hover{ 
+    color:white;
+    background-color: rgba(249, 9, 9, 0.9);
+}
+#callbtn{ 
+   padding:8px 16px;
+    background-color:rgb(188, 8, 8);
 }
 
-#callbtn:hover {
-  background-color: rgba(249, 9, 9, 0.9);
-}
 
 .copyrights{
   padding:8px 0;
