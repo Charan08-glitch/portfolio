@@ -392,10 +392,7 @@ a{
   margin-bottom: 0;
 }
 
-#callbtn:hover{ 
-    color:white;
-    background-color: rgba(249, 9, 9, 0.9);
-}
+
 #callbtn{ 
     background-color:rgb(188, 8, 8);
 }
